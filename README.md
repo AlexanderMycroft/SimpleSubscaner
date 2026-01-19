@@ -1,4 +1,4 @@
-# crt.sh Subdomain Fetcher
+# Simple Subdomains Scaner
 
 A small, interactive Python tool that asks for a domain name, queries
 `crt.sh`, and prints discovered subdomains to stdout. It normalizes the
